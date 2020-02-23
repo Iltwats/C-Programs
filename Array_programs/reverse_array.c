@@ -1,3 +1,4 @@
+//Reversing a array taken from the User.
 #include<stdio.h>
 int main()
 {
@@ -19,8 +20,4 @@ int main()
    {
        printf("%d ",a[i]);
    }
-   
-    
-
-
 }
