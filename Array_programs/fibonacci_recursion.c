@@ -1,4 +1,4 @@
-//to print fibonacci series using recursion
+//to print fibonacci series using recursion function
 
 #include<stdio.h>
 void fibo(int n);
