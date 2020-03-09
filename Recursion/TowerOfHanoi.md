@@ -1,1 +1,3 @@
 ### Tower of Hanoi is one of the main application of recursion. It says,**"if you can solve n-1 cases, then you can easily solve the nth case"**.
+#### There are 3 rings in increasing area down the order mounted on pole A.The problem is to move all these rings to ploe A to pole C while maintaining the same order. The main issue is that smaller disk must always come above the larger disk.
+##### Making a case for any no of rings could be there.
